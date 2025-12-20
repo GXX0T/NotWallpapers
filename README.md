@@ -51,15 +51,6 @@ A curated collection of minimalist, high-resolution wallpapers inspired by **Not
 ## <img width="800" height="119" alt="lic" src="https://github.com/user-attachments/assets/4a50f7d2-5750-4f65-a561-4cc8dc126766" />
 
 GNU GPL v3  
-You’re free to use, modify, and share — just keep it open and credit the project.
-
----
-
-## <img width="800" height="119" alt="sup" src="https://github.com/user-attachments/assets/0f7f1abf-0d19-4435-a80b-5c03527fd9c5" />
-
-Found a bug? Want a new theme?  
-👉 Open an [Issue](https://github.com/GXX0T/NotWallpapers/issues)  
-Or reach out via [nothing.community](https://nothing.community/u/aramatniyofc)
 
 ---
 
