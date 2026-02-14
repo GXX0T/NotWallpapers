@@ -3,7 +3,7 @@
 <img width="800" height="269" alt="NotWallpappers" src="https://github.com/user-attachments/assets/2ab8d313-44a1-4f52-b8cb-3031aae5d917" />
 
 
-![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWallpapers?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=)  
+![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWallpapers?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=) ![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWallpapers/total?style=for-the-badge&color=d71920&labelColor=000000&label=DOWNLOADS&logo=)
 ![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWallpapers?style=for-the-badge&color=d71920&labelColor=000000&label=MONTHLY%20COMMITS&logo=)
 
 > *"If your phone breathes Nothing, why shouldn’t your desktop?"*
