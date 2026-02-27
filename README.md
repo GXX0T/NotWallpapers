@@ -4,7 +4,7 @@
 
 
 ![GitHub Stars](https://img.shields.io/github/stars/GXX0T/NotWallpapers?style=for-the-badge&color=d71920&labelColor=000000&label=STARS&logo=) ![GitHub all releases](https://img.shields.io/github/downloads/GXX0T/NotWallpapers/total?style=for-the-badge&color=d71920&labelColor=000000&label=DOWNLOADS&logo=)
-![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWallpapers?style=for-the-badge&color=d71920&labelColor=000000&label=MONTHLY%20COMMITS&logo=)
+![Commits This Month](https://img.shields.io/github/commit-activity/m/GXX0T/NotWallpapers?style=for-the-badge&color=d71920&labelColor=000000&label=MONTHLY%20COMMITS&logo=) ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=GXX0T&repo=NotWallpapers&countColor=%23d71920&labelColor=%23000000&label=VISITORS&style=for-the-badge)
 
 > *"If your phone breathes Nothing, why shouldn’t your desktop?"*
 
